@@ -1,10 +1,3 @@
-/*
- * veiculo.h
- *
- *  Created on: 14 de out. de 2022
- *      Author: edson
- */
-
 #include <iostream>
 using namespace std;
 
